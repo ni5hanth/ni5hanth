@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, Nishanth here 👋</h1>
 
 <p align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="400" />
